@@ -39,9 +39,10 @@ platform :android do
     # You can also use other beta testing services here
   end
 
+# Deploying to Google Play
   desc "Deploy a new version to the Google Play"
   lane :deploy do
     gradle(task: "clean assembleRelease")
-    upload_to_play_store
+    upload_to_play_store(track: 'internal')
   end
 end

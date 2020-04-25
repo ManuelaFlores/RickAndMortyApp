@@ -59,7 +59,7 @@ Thumbs.db
 build/
 
 # vendor from fastlane
-vendor
+vendor/
 
 # Log Files
 *.log
