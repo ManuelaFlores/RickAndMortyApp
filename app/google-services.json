@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "549545065770",
+    "firebase_url": "https://red-social-intento-final.firebaseio.com",
+    "project_id": "red-social-intento-final",
+    "storage_bucket": "red-social-intento-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549545065770:android:81a8bd411f1c09da783253",
+        "android_client_info": {
+          "package_name": "com.manuflowers.android.rwmagic8ball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549545065770-4p9jh6rsecffnu7qngjpmh6hhubavopb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQu6wGT3n_u2K6ALgoX5z6_FdDc9dmcdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549545065770-4p9jh6rsecffnu7qngjpmh6hhubavopb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549545065770:android:39fc6fcb5a029a51",
+        "android_client_info": {
+          "package_name": "com.manuflowers.playingwithcamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549545065770-m8brdckhajam7tnegc2tstrvsvh2ld7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manuflowers.playingwithcamera",
+            "certificate_hash": "b8fbcc52ab32a6fd52ae01a02b37b204202c80f3"
+          }
+        },
+        {
+          "client_id": "549545065770-4p9jh6rsecffnu7qngjpmh6hhubavopb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQu6wGT3n_u2K6ALgoX5z6_FdDc9dmcdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549545065770-4p9jh6rsecffnu7qngjpmh6hhubavopb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549545065770:android:f5a3e6be2d2a7946783253",
+        "android_client_info": {
+          "package_name": "com.manuflowers.rickandmortyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549545065770-4p9jh6rsecffnu7qngjpmh6hhubavopb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQu6wGT3n_u2K6ALgoX5z6_FdDc9dmcdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549545065770-4p9jh6rsecffnu7qngjpmh6hhubavopb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
